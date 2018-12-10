@@ -21,7 +21,7 @@ namespace ConsoleApp1
                 }
                 else
                 {
-                    Console.WriteLine("Well done, you're not a fuckup.");
+                    Console.WriteLine("Well done, you're not a fuckup. Congratulations.");
                     valInt = true;
                 }
 
